@@ -1,0 +1,5315 @@
+fileFormatVersion: 2
+guid: 3a62a334838b3ff41949b2afc8d3617c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -138597526517236502
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_0
+  - first:
+      213: 2083708667141513260
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_1
+  - first:
+      213: 226394969309450031
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_2
+  - first:
+      213: -5162087126042933477
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_3
+  - first:
+      213: -2833113595119189225
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_4
+  - first:
+      213: -2164253273675782963
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_5
+  - first:
+      213: 1608177512811285773
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_6
+  - first:
+      213: 5229437348826122534
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_7
+  - first:
+      213: -4877363924829241618
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_8
+  - first:
+      213: -5661281835862297433
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_9
+  - first:
+      213: -234387730953124095
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_10
+  - first:
+      213: 707524898487472321
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_11
+  - first:
+      213: 9157832258896872415
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_12
+  - first:
+      213: -8166011832263113422
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_13
+  - first:
+      213: 5258572626490234562
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_14
+  - first:
+      213: 3739744538937079955
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_15
+  - first:
+      213: 1008761399679449953
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_16
+  - first:
+      213: -1499022262858068458
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_17
+  - first:
+      213: 8103586703428639798
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_18
+  - first:
+      213: -8186535082900872151
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_19
+  - first:
+      213: 8244498613614874049
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_20
+  - first:
+      213: 7400240727684060658
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_21
+  - first:
+      213: -3514233975662704097
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_22
+  - first:
+      213: 4993719855025736099
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_23
+  - first:
+      213: -8581762240868389897
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_24
+  - first:
+      213: -4220423455669578789
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_25
+  - first:
+      213: -6766919613665039339
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_26
+  - first:
+      213: -166396501088551370
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_27
+  - first:
+      213: 6053699702783694585
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_28
+  - first:
+      213: -2136170998839247422
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_29
+  - first:
+      213: 7589810911931271865
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_30
+  - first:
+      213: -7952218398739898054
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_31
+  - first:
+      213: 4825466218018605201
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_32
+  - first:
+      213: 2248407756677061940
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_33
+  - first:
+      213: -1434392409762428539
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_34
+  - first:
+      213: -6838852631561212047
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_35
+  - first:
+      213: 6346074281135426542
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_36
+  - first:
+      213: -5189511582524523551
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_37
+  - first:
+      213: -4500565002639373777
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_38
+  - first:
+      213: 781409912747861359
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_39
+  - first:
+      213: -5492971912734450406
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_40
+  - first:
+      213: -2734544085767712755
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_41
+  - first:
+      213: -5668594342148007053
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_42
+  - first:
+      213: 247218927993154429
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_43
+  - first:
+      213: -8357900145160086684
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_44
+  - first:
+      213: -3230166274342118252
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_45
+  - first:
+      213: -8598583857276917903
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_46
+  - first:
+      213: 6893444280750324160
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_47
+  - first:
+      213: 3539866910987014561
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_48
+  - first:
+      213: 5554880861821625142
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_49
+  - first:
+      213: 7051033404887903005
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_50
+  - first:
+      213: -8327184352160326534
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_51
+  - first:
+      213: -2576218495916557458
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_52
+  - first:
+      213: 8928080006917913921
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_53
+  - first:
+      213: 7802674801969592955
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_54
+  - first:
+      213: -1505172144249035665
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_55
+  - first:
+      213: 5356701992471386331
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_56
+  - first:
+      213: 7507578728831386215
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_57
+  - first:
+      213: -3302216784960952569
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_58
+  - first:
+      213: 6826653420805510721
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_59
+  - first:
+      213: -5159648296183553796
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_60
+  - first:
+      213: -4887101613889236660
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_61
+  - first:
+      213: 5518141863927426416
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_62
+  - first:
+      213: -3635243295908527359
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_63
+  - first:
+      213: 8264293831760428616
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_64
+  - first:
+      213: 4506547030989405750
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_65
+  - first:
+      213: 5568150408943008089
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_66
+  - first:
+      213: 3420524202764669880
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_67
+  - first:
+      213: 8271307431061708227
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_68
+  - first:
+      213: 8016152546056491172
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_69
+  - first:
+      213: 7402461790873158517
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_70
+  - first:
+      213: -3531491490571285603
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_71
+  - first:
+      213: 4379734411313614745
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_72
+  - first:
+      213: 646074716305759329
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_73
+  - first:
+      213: 9176051693156604104
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_74
+  - first:
+      213: 902247830141032880
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_75
+  - first:
+      213: -7492095287568891906
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_76
+  - first:
+      213: -5089533977317259958
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_77
+  - first:
+      213: 2795636947552526971
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_78
+  - first:
+      213: -7069076985743948645
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_79
+  - first:
+      213: 1590253738088412903
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_80
+  - first:
+      213: -2043315418302257635
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_81
+  - first:
+      213: -5307482050793519508
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_82
+  - first:
+      213: 1329865649812893323
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_83
+  - first:
+      213: 221438948851449024
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_84
+  - first:
+      213: 2238644133229171278
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_85
+  - first:
+      213: 6474330875041850697
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_86
+  - first:
+      213: -6172825353951737258
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_87
+  - first:
+      213: -8130347647708744206
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_88
+  - first:
+      213: 7436744037831743809
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_89
+  - first:
+      213: -2617554400227272004
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_90
+  - first:
+      213: -6720397564279120409
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_91
+  - first:
+      213: -5116458285032079886
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_92
+  - first:
+      213: -7432236990706407014
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_93
+  - first:
+      213: -8941707989015747602
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_94
+  - first:
+      213: 5536051464928272324
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_95
+  - first:
+      213: 7887769836123331131
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_96
+  - first:
+      213: 8495894812791135136
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_97
+  - first:
+      213: 4978444376849006767
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_98
+  - first:
+      213: -8916987418923251861
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_99
+  - first:
+      213: 8583784698205629464
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_100
+  - first:
+      213: 5071650265061143577
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_101
+  - first:
+      213: -7125297616928673933
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_102
+  - first:
+      213: -3924224355651902018
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_103
+  - first:
+      213: 5408608669232170456
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_104
+  - first:
+      213: 800345785128502846
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_105
+  - first:
+      213: -8155457589326258873
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_106
+  - first:
+      213: -8787560084302997498
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_107
+  - first:
+      213: 183774724770262978
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_108
+  - first:
+      213: -4905080428954148420
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_109
+  - first:
+      213: -6690608979988160928
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_110
+  - first:
+      213: -2929377455289715967
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_111
+  - first:
+      213: -6132431587647971262
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_112
+  - first:
+      213: 8567386999463122485
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_113
+  - first:
+      213: 1650541345669532049
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_114
+  - first:
+      213: -85155508990759022
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_115
+  - first:
+      213: -5576893086924457502
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_116
+  - first:
+      213: -8070449565837146079
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_117
+  - first:
+      213: -903976014755277005
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_118
+  - first:
+      213: 5327191912577536508
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_119
+  - first:
+      213: 7511090647395851017
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_120
+  - first:
+      213: -7250423534428373604
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_121
+  - first:
+      213: 7170479146064696832
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_122
+  - first:
+      213: -6292659525095812031
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_123
+  - first:
+      213: 4043508870121623115
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_124
+  - first:
+      213: 4914056614951438085
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_125
+  - first:
+      213: 9152471242731521370
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_126
+  - first:
+      213: 2364561988154199130
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_127
+  - first:
+      213: 149847419859928719
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_128
+  - first:
+      213: 411648792310249153
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_129
+  - first:
+      213: -706120117662713300
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_130
+  - first:
+      213: 705383885015080111
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_131
+  - first:
+      213: 6060781740686982230
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_132
+  - first:
+      213: -7057944673075291063
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_133
+  - first:
+      213: -713429713268527003
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_134
+  - first:
+      213: 4619189899690268366
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_135
+  - first:
+      213: -8211970775692443090
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_136
+  - first:
+      213: -8622662744132868191
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_137
+  - first:
+      213: -5373720542120746797
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_138
+  - first:
+      213: -7655365035788245780
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_139
+  - first:
+      213: 1356658374769548955
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_140
+  - first:
+      213: -8726389617093435984
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_141
+  - first:
+      213: -2160619756221240282
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_142
+  - first:
+      213: -1142503062853265387
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_143
+  - first:
+      213: -3411883843030814455
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_144
+  - first:
+      213: -2697831606174218753
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_145
+  - first:
+      213: -7890949847598345838
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_146
+  - first:
+      213: 8684187378785704204
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_147
+  - first:
+      213: -10003267701951091
+    second: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e504103578149e4dbd972798c171675
+      internalID: -1114317522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b9b22da420c48479cf65632b286267
+      internalID: 1422326493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201d249c335c62f4b81b8b6f61198bb4
+      internalID: 122935952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fac7f79b69c0294380da079945bf16f
+      internalID: -626636688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575e3defb92e747459be54830b7d1b91
+      internalID: 1743261243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf233a8b9288ff4f837b678412bc89b
+      internalID: -2106609677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b438e15bc925d74394c89be840ff3ee
+      internalID: 1334281663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b9774c9343f244a07d33c8bdbb68c
+      internalID: -823640474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a66927d15d6d848927e723bed18ccc
+      internalID: 1173621459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b27452a565f6149930a4162839d4f8
+      internalID: -1147926625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2c0f0759e8b740bee255a4ff2d594
+      internalID: -690313820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1917d81cd1a68854889975fc3f1d3761
+      internalID: 1948313947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e703ddf64e6ef8740a193db0906d7074
+      internalID: 130760443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8940e97b1a625c348ac19c0ff713f046
+      internalID: -552540810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbced3425b14c74a945fbf2ece29872
+      internalID: -1120430886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a575bd731cce7004ea292457764b1a54
+      internalID: 424563362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac87d310188264b8ac5611678f0cfc
+      internalID: 256764442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_17
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8563359911c7049b810333d4b648c1
+      internalID: -520516162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb2c3003352fd49a6b593935af8bff
+      internalID: 1927559964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_19
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6f0ce66b389f48a489cacf37c6289
+      internalID: 799050124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441d3da03b71b774494df139feb9c375
+      internalID: 750125996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_21
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f275d1227b0d35a4f9dddddc6f2a484c
+      internalID: -608094871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_22
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e0b3c6e07bfe438818e03c94d7434
+      internalID: 1781803954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_23
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c55ff5ec3ffd41aad5e6c1a4fdecf
+      internalID: -424485187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810abec8eeb60d49a57b04482988e1f
+      internalID: 1144227522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dd083a36dd3bb45b25f24c7bbc4e41
+      internalID: 437422587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a12204d358b3468384e1e61b84cbe
+      internalID: -1279660493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351264222043df84697b53d33937fc0f
+      internalID: 1218538984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd4456376d2bb41a53bc672670ac31
+      internalID: -910433987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea05db8d03bc4844896ed20a918b49a
+      internalID: -1349789098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285b04686432194abc60bea63e689ce
+      internalID: -1342338140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcf3cf042dba4c4192d181c76969f50
+      internalID: -1823490801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d04a322a709754db15424756cdead4
+      internalID: 1194474866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd224e79beced46921122645862838
+      internalID: 1570175468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae6d3f5779ede6409c108853c17bb97
+      internalID: 1793892882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_35
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e458cafc992593e4586ac3b532e2004d
+      internalID: 670970957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_36
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6150af0d483a141b1fcfd1cbf5712c
+      internalID: -2125852838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb52bf053603d1345aedccb944202f52
+      internalID: 1832760074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_38
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec42f7d1a75f049a52f8274ad2bb91
+      internalID: 1976747314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ffca5426f4404c9d319ab3752fae0
+      internalID: -1108637947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_40
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d945a9a49004841ad8c5e6e73289c3
+      internalID: 926142218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_41
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78db6ace40d4a694e8bfb7d271139fd9
+      internalID: -1785399634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_42
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c844f1d8efbf8458fc7e7d69228eb9
+      internalID: 1749999204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_43
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b00a26ecdeb9e4a9d7c22998a43348
+      internalID: -1683090783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_44
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc702fb8ff8f541b989fd0034fb92f
+      internalID: 930945577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_45
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9273608f20b497d4282e143178067eef
+      internalID: -1931921518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_46
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc1241f43c5d942bcee4d39866d523
+      internalID: 30298937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_47
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc596db56169fb34c93c6f2c46321b3a
+      internalID: -1007072351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_48
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c5377ef90206a4088ae0bb0289c62f
+      internalID: -1450346705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_49
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd62edfa396e844a80cac4d6eb3baa8
+      internalID: -1867038509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_50
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5695334c2344a14a83b337fc29e8351
+      internalID: -423606098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b948a4c61e2045957f51c87e43927
+      internalID: 1676895790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2587efa946cf4f4695d8bce38ba4359
+      internalID: -131856345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f719c0e62517c374198948566abac183
+      internalID: -1836969558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953323baa3cc4446804966cf5c082ef
+      internalID: 1437975158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f0c867c488534e82c4ef6a8bef57d
+      internalID: 1784527476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055bc2ee88bbea489f5260e187b51e8
+      internalID: 1693253057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2757b88f5bc9848998ebf429e51df2
+      internalID: -1113838569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5072f17dc1ab1b4693b196b7275cfd3
+      internalID: 1201495159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d837eb5f513bcc14ba64ee6b2aa2eea2
+      internalID: -816295463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002872b3e452cc442be6fc5dfe2ca751
+      internalID: 1434331291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82675a9d28d376540a0546b668085865
+      internalID: -332885316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_62
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f7c551570bf6042b1bc88fae051836
+      internalID: -1338341602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_63
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b169ea05ea3214685f0d62970ebe5f
+      internalID: -107563235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_64
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6c81d205c36994faad135455f8c51d
+      internalID: -78070202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72197bff723654abf221c8443fed3a
+      internalID: 1608640357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_66
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e72650b34d4854abda3cc501c1b8b7
+      internalID: 259521033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_67
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f130a3dc41c9a4f947f4a2c8028fd2
+      internalID: 1750618249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_68
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f7926b85253f44293995d2f1ac433d
+      internalID: -1080704683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_69
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2675e1d3a3c04daa2fe463a548cc4
+      internalID: 1799956753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_70
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65731d7ee28203a49ad346a44a74b6da
+      internalID: 2139519329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_71
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df120c214444b314dbb37d1314254436
+      internalID: 720191797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_72
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade49699ff19234aa1d9f04b3c9c3d2
+      internalID: -1769279965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_73
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed86cc8d1f7aab48b3482cf8b72b2c9
+      internalID: -1582114091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_74
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04da7fb98a2826b4e98a4c6cfc4cb5c1
+      internalID: 681693841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_75
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573366b165b8ab1418543cb0c9138aaf
+      internalID: 32988206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b81153fdfed7c44a17ff1a780fbf2b
+      internalID: -1721104136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6d8c7cec724b4b8f83290522aa4e7
+      internalID: 2014733484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed039847a5e1ea244a1db58da831d631
+      internalID: 1918385570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_79
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac54e1e8070334e99b6a0efe9dc8cd
+      internalID: -1636742856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d70a0dde11c95459b56d98365da4c5
+      internalID: 312167798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045750638459f31469caf965e89e2ad0
+      internalID: -777645208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ffc43088fc7604691e1838fbe2f95c
+      internalID: -955754983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26d2062fda7b4e47b27daeb9a4ce87a
+      internalID: -1342867879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_84
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092fa7d9a7769144b2f4dc0f96ae78f
+      internalID: -52177793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526789168beef6340819fef94395b511
+      internalID: -1839979787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_86
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c652b975bc0d50f4b98b3fe064f3c65c
+      internalID: 576754774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_87
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84157c8377dd37d478efbf60df2a5a12
+      internalID: -1210398535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e209b346ebc23a4f9fe24c7f24299c2
+      internalID: -2110633608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_89
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec352652759342488e8758349fb33c7
+      internalID: -339329147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_90
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237344b3363c64c42abbfbeaea14322a
+      internalID: -12200027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_91
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ee9277ff1d60d479fff7c4ba8b169a
+      internalID: -1353200126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_92
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21219131aa1767947b551dac4eafdac8
+      internalID: -1518431249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_93
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aead6aa764191408d8ec772b50956f
+      internalID: 1427100406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_94
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b0f21a85f17f4c967331f2b95f169
+      internalID: 663466641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_95
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f06c1575ea01a4285b1f72532c7996
+      internalID: 781847835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_96
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eddcd3cac0b76044a38ebbe02bef181
+      internalID: -1365540508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_97
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee264a656220e44eb77bc75063af782
+      internalID: 1611381112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_98
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1674d8ca755910409fa43c6d07840d5
+      internalID: 1575773708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_99
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07bb0980aa271d4eb166a041f6d348b
+      internalID: 489399572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_100
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228cb0dc02e9e348bf9ce684ab77ba9
+      internalID: 166220481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_101
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c128427c6087c94ebb1a08899a14eba
+      internalID: -1168416743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_102
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5875df5381ad2ba4a876343f31c3eeff
+      internalID: 1291642832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_103
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182df3f28fa2be6449708519f10e2328
+      internalID: -333913922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_104
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271e4b8071458b4ea381903218e41a1
+      internalID: 301664563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd486fff2068da48ba3aeb9fa9bf203
+      internalID: 361684989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_106
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5ada55efa32d04a8a36ccab5216400
+      internalID: 1978404769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_107
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae77d863cf4a5da499b2dce073ee406c
+      internalID: -828867036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_108
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db4989878bc164ea544ee23a86e00e
+      internalID: 1070731772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_109
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bbaed6346c2c74483286639d02be4c
+      internalID: 1292244017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_110
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d027b38c3b06254dac5184ac4c3744b
+      internalID: -114832003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_111
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa57fc3e9ccb0545b89872c49c023d2
+      internalID: -819650695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_112
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d749e57e351d1498631a1f05c2d31e
+      internalID: -494432987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cdab2042405224a9fe6405a8058e8a
+      internalID: 949523678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_114
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c248f2b4bf0b8744ae686bba3bb8c5c
+      internalID: -991383633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_115
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3d75bc6c7d794182e1608bed3ace3
+      internalID: 538362573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_116
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f27776f1cf894c923c09c0a2d3ce7
+      internalID: 1949541825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_117
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6549bf6b93519314189f5772d295c4c7
+      internalID: -1135805729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_118
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef270adc530d83438cc1f6146621110
+      internalID: 1373836674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_119
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefbd97c6011daa4dbf23615dad9638b
+      internalID: -958548223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_120
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a21ae8608a73a408140869f6a88d37
+      internalID: 1167794292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_121
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2249d54a715bf0c43acfe1eadadd2b55
+      internalID: -536362417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_122
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e2a043d3f44a449e7dd2b96b7b688
+      internalID: 1808610556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_123
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46082bad60c90fd42ab9b92f5c1fcb64
+      internalID: 1756105069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbf67641ed09f54faa05aa02f30c904
+      internalID: -699187324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_125
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78a3b38201b79409815d15da8a6a86
+      internalID: 1809221782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_126
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ff11beb0581b445aa265a24a78d285
+      internalID: 1630774285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_127
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448eb923cb60e142a37905077b2f411
+      internalID: 1860452992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_128
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aa70c1cbebce44cabdb19fa67a117c
+      internalID: 1736113546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_129
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba407cbd7536b649bddee60e8453edc
+      internalID: -1183919915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_130
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8941fd6715c7b489233315aca7280e
+      internalID: -975471043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_131
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2c6afa8bd89004e9aa89957696a6e5
+      internalID: 1491758392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_132
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5361a0fcc6b1042b210b3eef4032a7
+      internalID: 1511544827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_133
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee1d080dd0180f4e9d44809c8614ff9
+      internalID: 948467525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d971287f42e56e94d9d748bc8b45a70c
+      internalID: 1044214177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_135
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be471281a6ee1e3408ff74f07020eda4
+      internalID: 2012936242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93de890d0317505479750306a7707c6f
+      internalID: 308664501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_137
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 227
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb452ef25c6f91348a1c198b58530775
+      internalID: 1919183866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf6c8f5e8efb54596a8a99c77586ce
+      internalID: 1075154837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_139
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e537213a262244a7631e4f3954b35
+      internalID: 459471648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_140
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5097db444afe41ac17dce51fb3d57
+      internalID: 1857738913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_141
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a692eb3eee196c4986e93bfbab74219
+      internalID: -1338623669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_142
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1769542725c2144889806e53dfa072
+      internalID: -702877279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_143
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975eab1b54a69e1459520d28591a9486
+      internalID: 1254974442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c8de775516fe43958ccd849eb4141
+      internalID: 952607709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_145
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bde53c7726fe0c4cade1a45f0ea19bf
+      internalID: 1684972009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_146
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1810146776a2d74bad46ce27e617c04
+      internalID: -369545377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_147
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761f6fbe44d90d94bb2d84a3dea53e92
+      internalID: 554376025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_148
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc205a480b3554dbd305d90c3fbbfd
+      internalID: 1114593234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_149
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0adb0d9a5b08ee47a2c4df3eaa3997c
+      internalID: 541025200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_150
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d7b3451ca467c4b92e69118664e58b
+      internalID: -1370364024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_151
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9c739e20a4cd84b9de1629c9c99ad9
+      internalID: 1700386164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_152
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b2ec42207cf2e4584fd18ad5148f6e
+      internalID: 411252291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_153
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcf5cd605ee0be4689c70b8deb882cd
+      internalID: 1380171323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_154
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e4db59106b7704cb9e2ca8d041aa04
+      internalID: 935272973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_155
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff26c873719bfe49bf3a5aafe53b607
+      internalID: -1310375735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_156
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e72586f131481419bf63ddd424331b
+      internalID: 580715228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_157
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c6c5cdca7a6e48bb8beccc14164cc
+      internalID: 690447543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_158
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71701612da8fb4bb077b2bff3c5339
+      internalID: 7073575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_159
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac1bb986619384d9b506e8f47259a7
+      internalID: 568210472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_160
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebce2e6918109a49aec37494352e229
+      internalID: 221720722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_161
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee109c9b91fc31448b48b1737b48580e
+      internalID: -891551344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_162
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda0b39b39795484cbb54d2c6b537f8f
+      internalID: -993814691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_163
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf42cb6133f3d41a6497813cacaf61
+      internalID: 1616455341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_164
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597745d0db9bb244a85e45f54ddf634a
+      internalID: -361016454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76468d3ceafeb5a4cbd252739de315f7
+      internalID: 1970510799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_166
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2b0657619df5b4aa58aa8502254cfe
+      internalID: 1902287979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_167
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d289e824b4a5f904b80987134fc05cd0
+      internalID: 543660510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_168
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4be1291126f0242b2d4fd70be05384
+      internalID: 1793086352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a617086119554fa67d1e4db6b83df
+      internalID: -910965034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_170
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096e8f28305d6646929da420a264838
+      internalID: -867533225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_171
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4492bbfa7d6430e4ca14dedd28ce2c59
+      internalID: -1472530165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa72321f957314c41aeec11a0fd2af5e
+      internalID: 2082047960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_173
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a87d32c7c0e55a41a6a4c21e8a10ae3
+      internalID: 1714605992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_174
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec2c53ab10d6f345a7812b3e8c9e452
+      internalID: -169372070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_175
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd352ea676dcf4d9639ca1ff1402f7
+      internalID: 600902658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_176
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090fbad142cb24a40863f63d81f4f4a6
+      internalID: 652594889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_177
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9864ed916040d604ea220743b66cba07
+      internalID: 1729066838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_178
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0731ad6071358e4abbe8ac366d549b9
+      internalID: 17497990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_179
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70efedb8c63a4940a5a99edb0722d9a
+      internalID: -715002604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e7c90616a66b41b0463f8553adfe5
+      internalID: -1026995438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_181
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d52d05dcf691724eab71ae4dc4d705a
+      internalID: 451730067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_182
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afabce4f19682d348b44df9469504b71
+      internalID: 1898942721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_183
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0637a76c68d8643ae9663a5f1b8a7a
+      internalID: -911060956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_184
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0caba433106154ea82b0e15bf4abc7
+      internalID: -1865603330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_185
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d9f8c88e18b64f8658043bfe95e8d
+      internalID: -1684365111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_186
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082894b62d16d904dbb41e833c56f968
+      internalID: -810034655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e8c336b94a55047be7b3c49222a9ff
+      internalID: -926284535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_188
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd27472c0a485d44b3d342cfe65654b
+      internalID: -2127169597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_189
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9732ca0d0439b8b479505a2221acd5fa
+      internalID: -445094256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_190
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0adb2243b76748b7daf5f4ac6018e
+      internalID: -1562312380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_191
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f6ce5f0300a74897c536f17cd33e9
+      internalID: 426541299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49af7b938885c7f468cd3cd3f73260c5
+      internalID: 829289145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_193
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4fdf6b815f4314dab17dc67e04854c
+      internalID: 1611871231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_194
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26cf7e84a868b942a35b3d97cca3a78
+      internalID: 1341086815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_195
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657f936f1dc9ae48a392bef5c61fcd3
+      internalID: 1379720504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_196
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce96d4063ac1d4ba4608dd01cc05ca
+      internalID: -239746912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_197
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ad9549672e0a4980792d66e421caf
+      internalID: 1680830382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_198
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921f83b6095ffa4d88b73bae76d8aff
+      internalID: 1187029187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_199
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d648465211f34f84db7fef16c3e40
+      internalID: -2125412925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_200
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd56bd9f90eaf4d44a8444120bdcc131
+      internalID: 294179870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_201
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f89e0ccd1b82b4596aea868837c813
+      internalID: 781140746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_202
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96dfdeb1b3ae740b2ef574155136f8
+      internalID: -1460731793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_203
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c2802a832b2d04f8f59493b230515d
+      internalID: -1261130777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_204
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec428dcce8db7704babc0a00c260a94e
+      internalID: 1863765563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_205
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a6c2789676647479110790ee85204a
+      internalID: 454017769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 437203b3d2cadec4a8f08ea02cfd3db7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_0: -1114317522
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_1: 1422326493
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_10: -690313820
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_100: 166220481
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_101: -1168416743
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_102: 1291642832
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_103: -333913922
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_104: 301664563
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_105: 361684989
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_106: 1978404769
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_107: -828867036
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_108: 1070731772
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_109: 1292244017
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_11: 1948313947
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_110: -114832003
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_111: -819650695
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_112: -494432987
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_113: 949523678
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_114: -991383633
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_115: 538362573
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_116: 1949541825
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_117: -1135805729
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_118: 1373836674
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_119: -958548223
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_12: 130760443
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_120: 1167794292
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_121: -536362417
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_122: 1808610556
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_123: 1756105069
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_124: -699187324
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_125: 1809221782
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_126: 1630774285
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_127: 1860452992
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_128: 1736113546
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_129: -1183919915
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_13: -552540810
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_130: -975471043
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_131: 1491758392
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_132: 1511544827
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_133: 948467525
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_134: 1044214177
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_135: 2012936242
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_136: 308664501
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_137: 1919183866
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_138: 1075154837
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_139: 459471648
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_14: -1120430886
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_140: 1857738913
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_141: -1338623669
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_142: -702877279
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_143: 1254974442
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_144: 952607709
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_145: 1684972009
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_146: -369545377
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_147: 554376025
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_148: 1114593234
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_149: 541025200
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_15: 424563362
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_150: -1370364024
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_151: 1700386164
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_152: 411252291
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_153: 1380171323
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_154: 935272973
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_155: -1310375735
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_156: 580715228
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_157: 690447543
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_158: 7073575
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_159: 568210472
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_16: 256764442
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_160: 221720722
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_161: -891551344
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_162: -993814691
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_163: 1616455341
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_164: -361016454
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_165: 1970510799
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_166: 1902287979
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_167: 543660510
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_168: 1793086352
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_169: -910965034
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_17: -520516162
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_170: -867533225
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_171: -1472530165
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_172: 2082047960
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_173: 1714605992
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_174: -169372070
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_175: 600902658
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_176: 652594889
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_177: 1729066838
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_178: 17497990
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_179: -715002604
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_18: 1927559964
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_180: -1026995438
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_181: 451730067
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_182: 1898942721
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_183: -911060956
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_184: -1865603330
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_185: -1684365111
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_186: -810034655
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_187: -926284535
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_188: -2127169597
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_189: -445094256
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_19: 799050124
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_190: -1562312380
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_191: 426541299
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_192: 829289145
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_193: 1611871231
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_194: 1341086815
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_195: 1379720504
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_196: -239746912
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_197: 1680830382
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_198: 1187029187
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_199: -2125412925
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_2: 122935952
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_20: 750125996
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_200: 294179870
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_201: 781140746
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_202: -1460731793
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_203: -1261130777
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_204: 1863765563
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_205: 454017769
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_21: -608094871
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_22: 1781803954
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_23: -424485187
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_24: 1144227522
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_25: 437422587
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_26: -1279660493
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_27: 1218538984
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_28: -910433987
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_29: -1349789098
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_3: -626636688
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_30: -1342338140
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_31: -1823490801
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_32: 1194474866
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_33: 1570175468
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_34: 1793892882
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_35: 670970957
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_36: -2125852838
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_37: 1832760074
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_38: 1976747314
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_39: -1108637947
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_4: 1743261243
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_40: 926142218
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_41: -1785399634
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_42: 1749999204
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_43: -1683090783
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_44: 930945577
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_45: -1931921518
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_46: 30298937
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_47: -1007072351
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_48: -1450346705
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_49: -1867038509
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_5: -2106609677
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_50: -423606098
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_51: 1676895790
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_52: -131856345
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_53: -1836969558
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_54: 1437975158
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_55: 1784527476
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_56: 1693253057
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_57: -1113838569
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_58: 1201495159
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_59: -816295463
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_6: 1334281663
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_60: 1434331291
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_61: -332885316
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_62: -1338341602
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_63: -107563235
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_64: -78070202
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_65: 1608640357
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_66: 259521033
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_67: 1750618249
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_68: -1080704683
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_69: 1799956753
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_7: -823640474
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_70: 2139519329
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_71: 720191797
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_72: -1769279965
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_73: -1582114091
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_74: 681693841
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_75: 32988206
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_76: -1721104136
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_77: 2014733484
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_78: 1918385570
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_79: -1636742856
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_8: 1173621459
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_80: 312167798
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_81: -777645208
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_82: -955754983
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_83: -1342867879
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_84: -52177793
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_85: -1839979787
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_86: 576754774
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_87: -1210398535
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_88: -2110633608
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_89: -339329147
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_9: -1147926625
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_90: -12200027
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_91: -1353200126
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_92: -1518431249
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_93: 1427100406
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_94: 663466641
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_95: 781847835
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_96: -1365540508
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_97: 1611381112
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_98: 1575773708
+      DS _ DSi - Pokemon Platinum - Friendly Characters - Lucas (1)_99: 489399572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
