@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -19,6 +20,8 @@ public class BattleDialogBox : MonoBehaviour
     
     public GameObject ActionSelector => actionSelector;
     public GameObject MoveSelector => moveSelector;
+
+    public Action<int, Move> OnMoveSetEvent;
     
     public void SetDialog(string dialog)
     {
@@ -41,7 +44,15 @@ public class BattleDialogBox : MonoBehaviour
         {
             moveTexts[i].text = i < moves.Count ? 
                     moves[i].Base.name : "-";
+            
+            OnMoveSetEvent?.Invoke(i, moves[i]);
         }
+    }
+    
+    public void SetMoveDetails(Move move)
+    {
+        ppText.text = $"PP {move.CurrentPP}/{move.Base.PP}";
+        typeText.text = move.Base.MoveType.ToString();
     }
     
     public void EnableDialogText(bool enabled)

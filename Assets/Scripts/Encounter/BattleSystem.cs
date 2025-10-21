@@ -24,6 +24,8 @@ public class BattleSystem : MonoBehaviour
     
     private ActionSlot[] actionSlots;
     private MoveSlot[] moveSlots;
+
+    private GameObject selectedMoveSlot;
     
     public Action OnBattleStart;
 
@@ -39,6 +41,16 @@ public class BattleSystem : MonoBehaviour
         {
             slot.OnMoveSlotOptionClicked += MoveSelected;
         }
+
+        encounterUI.BattleDialogBox.OnMoveSetEvent += SetMoveData;
+
+        InputManager.OnNavigation += UpdateMoveSelection;
+    }
+
+    private void Start()
+    {
+        //Debug
+        BattleStart();
     }
 
     private void BattleStart()
@@ -59,7 +71,21 @@ public class BattleSystem : MonoBehaviour
         yield return encounterUI.BattleDialogBox.TypeDialog("A wild " + enemyUnit.Pokemon.Base.name + " appeared!");
         yield return new WaitForSeconds(1f);
 
-        PlayerTurn();
+        PlayerAction();
+    }
+
+    private void SetMoveData(int index, Move move)
+    {
+        moveSlots[index].SetMove(move);
+    }
+
+    private void UpdateMoveSelection(Vector2 pos)
+    {
+        selectedMoveSlot = EventSystem.current.currentSelectedGameObject;
+        if (selectedMoveSlot.TryGetComponent(out MoveSlot moveSlot))
+        {
+            encounterUI.BattleDialogBox.SetMoveDetails(moveSlot.Move);
+        }
     }
 
     private void ActionSelected(ActionSlot.ActionOptions actionOption)
@@ -82,23 +108,54 @@ public class BattleSystem : MonoBehaviour
         }
     }
     
-    private void MoveSelected(MoveSlot.MoveOptions moveOptions)
+    private void MoveSelected(MoveSlot.MoveOptions moveOptions, Move move)
     {
-        switch (moveOptions)
-        {
-            default:
-            case MoveSlot.MoveOptions.Slot1:
-                break;
-            case MoveSlot.MoveOptions.Slot2:
-                break;
-            case MoveSlot.MoveOptions.Slot3:
-                break;
-            case MoveSlot.MoveOptions.Slot4:
-                break;
-        }
+        encounterUI.BattleDialogBox.EnableMoveSelector(false);
+        encounterUI.BattleDialogBox.EnableDialogText(true);
+
+        StartCoroutine(PerformPlayerMove(move));
+    }
+    
+    private IEnumerator PerformPlayerMove(Move move)
+    {
+        encounterState = EncounterState.Busy;
+        
+        yield return encounterUI.BattleDialogBox.TypeDialog(
+            playerUnit.Pokemon.Base.name + " used " + move.Base.name);
+        
+        yield return new WaitForSeconds(1f);
+        
+        bool isFainted = enemyUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
+        StartCoroutine(encounterUI.UpdateHP(playerUnit.Pokemon, enemyUnit.Pokemon));
+        if (isFainted)
+            yield return encounterUI.BattleDialogBox.TypeDialog(enemyUnit.Pokemon.Base.name + " fainted");
+        else
+            StartCoroutine(EnemyTurn());
+    }
+    
+    private IEnumerator EnemyTurn()
+    {
+        //TO-DO: Enemy move selection and logic
+        encounterState = EncounterState.EnemyTurn;
+        Move move = enemyUnit.Pokemon.GetRandomMove();
+        
+        yield return encounterUI.BattleDialogBox.TypeDialog(
+            enemyUnit.Pokemon.Base.name + " used " + move.Base.name);
+        
+        yield return new WaitForSeconds(1f);
+        
+        bool isFainted = playerUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
+        StartCoroutine(encounterUI.UpdateHP(playerUnit.Pokemon, enemyUnit.Pokemon));
+        if (isFainted)
+            yield return encounterUI.BattleDialogBox.TypeDialog(playerUnit.Pokemon.Base.name + " fainted");
+        else
+            PlayerAction();
+        
+        //Return to player turn
+        PlayerAction();
     }
 
-    private void PlayerTurn()
+    private void PlayerAction()
     {
         EventSystem.current.SetSelectedGameObject(actionSlots[0].gameObject);
         

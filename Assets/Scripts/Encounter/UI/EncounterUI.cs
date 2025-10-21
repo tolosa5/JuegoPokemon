@@ -1,3 +1,4 @@
+using System.Collections;
 using TMPro;
 using UnityEngine;
 
@@ -30,5 +31,14 @@ public class EncounterUI : MonoBehaviour
         enemyData.nameText.text = pokemon.Base.name;
         enemyData.lvlText.text = "Lvl " + pokemon.Level;
         enemyData.hpBar.SetHp((float)pokemon.Hp / pokemon.MaxHp);
+    }
+
+    public IEnumerator UpdateHP(Pokemon playerPokemon, Pokemon enemyPokemon)
+    {
+        yield return (playerData.hpBar.ReduceHP(
+            (float)playerPokemon.Hp / playerPokemon.MaxHp));
+        
+        yield return (enemyData.hpBar.ReduceHP(
+            (float)enemyPokemon.Hp / enemyPokemon.MaxHp));
     }
 }
