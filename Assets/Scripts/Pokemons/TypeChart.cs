@@ -29,8 +29,8 @@ public class TypeChart
         if (attackType == PokemonTypes.None || defenseType == PokemonTypes.None)
             return 1;
         
-        int row = (int)attackType;
-        int col = (int)defenseType;
+        int row = (int)attackType - 1;
+        int col = (int)defenseType - 1;
 
         return new TypeChart().chart[row][col];
     }

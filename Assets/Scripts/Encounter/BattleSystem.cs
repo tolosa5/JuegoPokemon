@@ -69,7 +69,6 @@ public class BattleSystem : MonoBehaviour
         encounterUI.BattleDialogBox.SetMoves(playerUnit.Pokemon.Moves);
         
         yield return encounterUI.BattleDialogBox.TypeDialog("A wild " + enemyUnit.Pokemon.Base.name + " appeared!");
-        yield return new WaitForSeconds(1f);
 
         PlayerAction();
     }
@@ -123,11 +122,10 @@ public class BattleSystem : MonoBehaviour
         yield return encounterUI.BattleDialogBox.TypeDialog(
             playerUnit.Pokemon.Base.name + " used " + move.Base.name);
         
-        yield return new WaitForSeconds(1f);
-        
-        bool isFainted = enemyUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
-        StartCoroutine(encounterUI.UpdateHP(playerUnit.Pokemon, enemyUnit.Pokemon));
-        if (isFainted)
+        DamageDetails damageDetails = enemyUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
+        yield return encounterUI.UpdateHP(playerUnit.Pokemon, enemyUnit.Pokemon);
+        yield return ShowDamageDetails(damageDetails);
+        if (damageDetails.Fainted)
             yield return encounterUI.BattleDialogBox.TypeDialog(enemyUnit.Pokemon.Base.name + " fainted");
         else
             StartCoroutine(EnemyTurn());
@@ -142,17 +140,27 @@ public class BattleSystem : MonoBehaviour
         yield return encounterUI.BattleDialogBox.TypeDialog(
             enemyUnit.Pokemon.Base.name + " used " + move.Base.name);
         
-        yield return new WaitForSeconds(1f);
-        
-        bool isFainted = playerUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
-        StartCoroutine(encounterUI.UpdateHP(playerUnit.Pokemon, enemyUnit.Pokemon));
-        if (isFainted)
+        DamageDetails damageDetails = playerUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
+        yield return encounterUI.UpdateHP(playerUnit.Pokemon, enemyUnit.Pokemon);
+        yield return ShowDamageDetails(damageDetails);
+        if (damageDetails.Fainted)
             yield return encounterUI.BattleDialogBox.TypeDialog(playerUnit.Pokemon.Base.name + " fainted");
         else
             PlayerAction();
         
         //Return to player turn
         PlayerAction();
+    }
+    
+    private IEnumerator ShowDamageDetails(DamageDetails damageDetails)
+    {
+        if (damageDetails.Critical > 1f)
+            yield return encounterUI.BattleDialogBox.TypeDialog("A critical hit!");
+        
+        if (damageDetails.TypeEffectiveness > 1f)
+            yield return encounterUI.BattleDialogBox.TypeDialog("It's super effective!");
+        else if (damageDetails.TypeEffectiveness < 1f)
+            yield return encounterUI.BattleDialogBox.TypeDialog("It's not very effective");
     }
 
     private void PlayerAction()

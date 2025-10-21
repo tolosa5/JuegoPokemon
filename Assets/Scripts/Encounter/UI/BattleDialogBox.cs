@@ -36,6 +36,8 @@ public class BattleDialogBox : MonoBehaviour
             dialogText.text += letter;
             yield return new WaitForSeconds(1 / letterPace);
         }
+        
+        yield return new WaitForSeconds(1);
     }
     
     public void SetMoves(List<Move> moves)
