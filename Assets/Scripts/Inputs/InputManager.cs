@@ -4,8 +4,6 @@ using UnityEngine.InputSystem;
 
 public class InputManager : MonoBehaviour
 {
-    private InputsMode currentInputsMode = InputsMode.Main;
-    
     public static Vector2 MovementInput {get; private set;}
     public static Action OnInteractionEvent;
     public static Action OnRunningEvent;
@@ -26,10 +24,10 @@ public class InputManager : MonoBehaviour
 
     private void Update()
     {
-        switch (currentInputsMode)
+        switch (GameStatesManager.instance.CurrentGameState)
         {
             default:
-            case InputsMode.Main:
+            case GameState.Main:
                 MovementInput = movementAction.action.ReadValue<Vector2>();
                 if (runAction.action.WasPerformedThisFrame())
                     OnRunningEvent?.Invoke();
@@ -37,10 +35,7 @@ public class InputManager : MonoBehaviour
                     OnInteractionEvent?.Invoke();
                 break;
             
-            case InputsMode.UI:
-                break;
-            
-            case InputsMode.Battle:
+            case GameState.Battle:
                 if (navigateAction.action.WasPerformedThisFrame())
                 {
                     Vector2 navigateValue = navigateAction.action.ReadValue<Vector2>();
@@ -50,11 +45,13 @@ public class InputManager : MonoBehaviour
         }
     }
     
+    /*
     public void SetInputMode(InputsMode inputsMode)
     {
         currentInputsMode = inputsMode;
         //Additional logic for different input modes can be added here
     }
+    */
 
     private void OnDisable()
     {

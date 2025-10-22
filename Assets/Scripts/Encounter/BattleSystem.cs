@@ -50,13 +50,13 @@ public class BattleSystem : MonoBehaviour
     private void Start()
     {
         //Debug
-        BattleStart();
+        //BattleStart();
     }
 
-    private void BattleStart()
+    public void BattleStart()
     {
         StartCoroutine(SetUpBattle());
-        OnBattleStart?.Invoke();
+        //OnBattleStart?.Invoke();
     }
 
     private IEnumerator SetUpBattle()
@@ -68,6 +68,8 @@ public class BattleSystem : MonoBehaviour
         
         encounterUI.BattleDialogBox.SetMoves(playerUnit.Pokemon.Moves);
         
+        playerUnit.PlayEnterAnimation();
+        enemyUnit.PlayEnterAnimation();
         yield return encounterUI.BattleDialogBox.TypeDialog("A wild " + enemyUnit.Pokemon.Base.name + " appeared!");
 
         PlayerAction();
@@ -122,11 +124,18 @@ public class BattleSystem : MonoBehaviour
         yield return encounterUI.BattleDialogBox.TypeDialog(
             playerUnit.Pokemon.Base.name + " used " + move.Base.name);
         
+        playerUnit.PlayAttackAnimation();
+        yield return new WaitForSeconds(1f);
+        
+        enemyUnit.PlayHitAnimation();
         DamageDetails damageDetails = enemyUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
         yield return encounterUI.UpdateHP(playerUnit.Pokemon, enemyUnit.Pokemon);
         yield return ShowDamageDetails(damageDetails);
         if (damageDetails.Fainted)
+        {
             yield return encounterUI.BattleDialogBox.TypeDialog(enemyUnit.Pokemon.Base.name + " fainted");
+            playerUnit.PlayFaintAnimation();
+        }
         else
             StartCoroutine(EnemyTurn());
     }
@@ -140,11 +149,19 @@ public class BattleSystem : MonoBehaviour
         yield return encounterUI.BattleDialogBox.TypeDialog(
             enemyUnit.Pokemon.Base.name + " used " + move.Base.name);
         
+        enemyUnit.PlayAttackAnimation();
+        yield return new WaitForSeconds(1f);
+        
+        playerUnit.PlayHitAnimation();
+        
         DamageDetails damageDetails = playerUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
         yield return encounterUI.UpdateHP(playerUnit.Pokemon, enemyUnit.Pokemon);
         yield return ShowDamageDetails(damageDetails);
         if (damageDetails.Fainted)
+        {
             yield return encounterUI.BattleDialogBox.TypeDialog(playerUnit.Pokemon.Base.name + " fainted");
+            playerUnit.PlayFaintAnimation();
+        }
         else
             PlayerAction();
         
@@ -194,5 +211,10 @@ public class BattleSystem : MonoBehaviour
     private void RunAway()
     {
         
+    }
+    
+    public void EndBattle()
+    {
+        GameStatesManager.instance.SetGameState(GameState.Main);
     }
 }

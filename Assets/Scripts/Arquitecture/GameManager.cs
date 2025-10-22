@@ -1,9 +1,11 @@
+using System;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance { get; private set; }
     [SerializeField] private PlayerManager playerManager;
+    [SerializeField] private EncounterManager encounterManager;
     
     private void Awake()
     {
@@ -16,5 +18,10 @@ public class GameManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+
+    private void Start()
+    {
+        playerManager.OnWildEncounter += encounterManager.BattleStart;
     }
 }
